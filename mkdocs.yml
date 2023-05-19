@@ -45,6 +45,9 @@ theme:
 
 plugins:
   - search
+  - with-pdf:
+      verbose: true
+
 
 extra:
   social:
